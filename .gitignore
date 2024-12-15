@@ -1,0 +1,11 @@
+# File structure:
+# /your-app-name/
+#   ├── app.py
+#   ├── requirements.txt
+#   └── .gitignore
+
+# .gitignore
+__pycache__/
+*.pyc
+.env
+venv/
